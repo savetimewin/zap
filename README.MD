@@ -1,4 +1,4 @@
-Need to have Python 3.6 or higher installed on your machine and `pip install pygame`
+Need to have Python 3.6 or higher installed on your machine and install pygame via `pip install pygame` command.
 
 This is my very first game that I have created during the Summer of 2022.
 
